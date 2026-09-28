@@ -1,4 +1,4 @@
-# Olá, eu sou a victor! 👋
+# Olá, eu sou o victor! 👋
 
 Bem-vindo ao meu portfólio.
 
