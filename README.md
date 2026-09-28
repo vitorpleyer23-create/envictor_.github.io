@@ -3,7 +3,8 @@
 Bem-vindo ao meu portfólio.
 
 ## Sobre mim
-Sou estudante de eng. Software...
+Sou estudante de engenharia Software
+
 
 ## desenvolvo
 python e outros
